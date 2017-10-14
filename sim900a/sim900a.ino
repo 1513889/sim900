@@ -6,7 +6,7 @@ CallGSM call_classname;
 SMSGSM sms_classname;
 
 
-char position;
+//char position;
 char fra_get[30];
 //char fra_start[2];
 //char fra_type[1];
